@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st #import the streamlit lirary
 
 #title of the web app
 st.title("My First streamlit app")

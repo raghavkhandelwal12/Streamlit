@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st #import 
 st.title("Image and Video Example")
 
 #display image
