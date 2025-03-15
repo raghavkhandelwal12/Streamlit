@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st #import the streamlit library 
 
 #title
 st.title("Streamlit Widgets exampel")

@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st #import the library 
 import pandas as pd
 
 st.title("File uploaded Example")

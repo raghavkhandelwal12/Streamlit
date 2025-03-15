@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st #import the library
 #title
 st.title("User input Example")
 
